@@ -28,13 +28,13 @@ public class MainActivity extends AppCompatActivity {
     private static Retrofit retrofit = null;
     private RecyclerView recyclerView = null;
 // insert your themoviedb.org API KEY here
-    private final static String API_KEY = BuildConfig.API_KEY;
+    private final static String API_KEY = BuildConfig.API__KEY;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
+        recyclerView = findViewById(R.id.recycler_view);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         connectAndGetApiData();

@@ -16,13 +16,13 @@ android {
     }
     buildTypes {
         debug {
-            buildConfigField 'String', "API_KEY", 'TOP_MOVIES_TMDB_API_KEY'
-            resValue 'string', "api_key", 'TOP_MOVIES_TMDB_API_KEY'
+            buildConfigField "String", "API__KEY", TOP_MOVIES_TMDB_API_KEY
+            resValue "string", "api__key", TOP_MOVIES_TMDB_API_KEY
         }
         release {
             minifyEnabled false
-            buildConfigField 'String', "API_KEY", 'TOP_MOVIES_TMDB_API_KEY'
-            resValue 'string', "api_key", 'TOP_MOVIES_TMDB_API_KEY'
+            buildConfigField "String", "API__KEY", TOP_MOVIES_TMDB_API_KEY
+            resValue "string", "api__key", TOP_MOVIES_TMDB_API_KEY
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
