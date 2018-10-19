@@ -1,0 +1,5 @@
+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(µûëŠüÿÿÿÿ8Ï‘Ú“ç,
+Ksquid:S1905"/Remove this unnecessary cast to "RecyclerView".(¾àÔ¶8Ï‘Ú“ç,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎŞÇ’8Ï‘Ú“ç,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ê¸Ì8Ï‘Ú“ç,

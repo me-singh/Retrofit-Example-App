@@ -1,0 +1,27 @@
+
+R
+"app/src/main/res/drawable/star.xml,d\6\d60032e15345055eddabd4a04d88f1092ca29375
+R
+"app/src/main/res/values/colors.xml,9\6\969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+R
+"app/src/main/res/values/styles.xml,f\7\f79cc2688e29fcbc286fda14ae07b27c9e83690f
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+z
+Japp/src/main/java/com/example/kadyan/moviedetails/Model/MovieResponse.java,f\2\f2ff5f580d253392060ad4093f1fec66c542b93e
+{
+Kapp/src/main/java/com/example/kadyan/moviedetails/Rest/MovieApiService.java,8\b\8ba4224554bc2447432543414fed14ca9e9c8aba
+[
++app/src/main/res/layout/list_item_movie.xml,a\7\a753eb96b1c359702b34f2be33c04f3861069e5a
+Y
+)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+|
+Lapp/src/main/java/com/example/kadyan/moviedetails/Adapter/MoviesAdapter.java,5\7\575961bb1dabcffd12480d066495ea451ed457e0
+r
+Bapp/src/main/java/com/example/kadyan/moviedetails/Model/Movie.java,1\e\1ea82fc67e67d67a587655fe70490209c8a9cf74
+|
+Lapp/src/main/java/com/example/kadyan/moviedetails/Activity/MainActivity.java,3\5\3540fc8a3234874df2701f9f3894752847d0c2f4
